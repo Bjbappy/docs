@@ -20,7 +20,7 @@ We accept a lot of [different contributions](CONTRIBUTING.md/#types-of-contribut
 
 As you're using GitHub Docs, you may find something in an article that you'd like to add to, update, or change. Click on **make a contribution** to navigate directly to that article in the codebase, so that you can begin making your contribution.
 
-<img src="./assets/images/contribution_cta.png" width="400">
+img src="./assets/images/contribution_cta.png" width="400"
 
 #### Open an issue
 
@@ -33,6 +33,7 @@ If you have a solution to one of the open issues, you will need to fork the repo
 #### Join us in discussions
 
 We use GitHub Discussions to talk about all sorts of topics related to documentation and this site. For example: if you'd like help troubleshooting a PR, have a great new idea, or want to share something amazing you've learned in our docs, join us in [discussions](https://github.com/github/docs/discussions).
+
 
 #### And that's it!
 
