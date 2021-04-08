@@ -1,4 +1,4 @@
----
+<---
 title: Duplicating a repository
 intro: 'To duplicate a repository without forking it, you can run a special clone command, then mirror-push to the new repository.'
 redirect_from:
@@ -29,7 +29,7 @@ Before you can duplicate a repository and push to your new copy, or _mirror_, of
 4. Remove the temporary local repository you created earlier.
   ```shell
   $ cd ..
-  $ rm -rf <em>old-repository</em>
+ < $ rm -rf <em>old-repository</em>>
   ```
 
 ### Mirroring a repository that contains {% data variables.large_files.product_name_long %} objects
@@ -58,7 +58,7 @@ Before you can duplicate a repository and push to your new copy, or _mirror_, of
 7. Remove the temporary local repository you created earlier.
   ```shell
   $ cd ..
-  $ rm -rf <em>old-repository</em>
+  <$ rm -rf <em>old-repository</em>>
   ```
 
 ### Mirroring a repository in another location
@@ -80,5 +80,5 @@ As with a bare clone, a mirrored clone includes all remote branches and tags, bu
 
 ```shell
 $ git fetch -p origin
-$ git push --mirror
+$ git push --mirror>
 ```
